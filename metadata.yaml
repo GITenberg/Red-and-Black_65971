@@ -1,10 +1,13 @@
 _repo: Red-and-Black_65971
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Rogers, Frances
     gutenberg_agent_id: '9480'
     url: http://www.gutenberg.org/2009/agents/9480
+covers:
+- cover_type: archival
+  image_path: 65971-h/images/cover.jpg
 creator:
   author:
     agent_name: Richmond, Grace S. (Grace Smith)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2216
     wikipedia: https://en.wikipedia.org/wiki/Grace_S._Richmond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65971#Red-and-Black
 gutenberg_issued: '2021-08-01'
 gutenberg_type: Text
 identifiers:
